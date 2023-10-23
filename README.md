@@ -1,4 +1,4 @@
-# EXP 06- Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
+# EXP 06 - Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
 
 #### NAME: MONISHA T
 #### REG NO: 212221240029
